@@ -1,0 +1,40 @@
+table {
+    margin-left: 350px;
+    border-collapse: collapse;
+    width: 50%;
+
+}
+
+th {
+    font-size: 20px;margin-top: 20px;
+    background-color: grey;
+    border-collapse: collapse;
+
+}
+
+
+td {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    border-collapse: collapse;
+    padding-top: 20px;
+
+}
+h1 {
+    text-align: center;
+    margin-top: 150px;
+}
+
+#year {
+    text-align: center;
+    margin-left: 130px;
+    margin-top: -15px;
+
+}
+.header-color {
+    background-color: blue;
+    width: 50%;
+    height: 70px;
+    margin-left: 350px;
+}
