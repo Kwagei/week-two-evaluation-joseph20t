@@ -1,0 +1,144 @@
+.nav{
+     background-color: black; 
+    width: 100%;
+    height: 70px;
+    display: flex;
+}
+
+.nav div ul {
+    display: flex; 
+    margin-left: 1000px;  
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+
+ 
+}
+
+li{ 
+    list-style-type: none;
+    margin-right: 7px;
+    font-size: 22px;    
+}
+.mother-div-about-my-image {
+    width: 100%;
+    height: 400px;
+   margin-top: 25px;
+}
+
+.image-about-me {
+    float: left;
+    width: 50%;
+    height: 100px;  
+}
+
+.div-paragraph-about-me {
+    float: right;
+    width: 50%;
+    height: 100px;  
+}
+
+#my-picture {
+    width: 80%;
+    height: 400px;
+}
+
+.about-me {
+    margin-right: 100px;
+}
+
+.some-of-my-project-list {
+    text-align: center;
+}
+
+.list-of-project-mother-div {
+   margin-top: 25px;
+   display: flex;
+   height: 350px;
+}
+
+.form-div {
+    width: 30%; 
+    height: 100px;
+}
+
+#form-image {
+    margin-left: 80px;
+    width: 100%;
+    height: 340px;
+}
+
+#calculator-project-image {
+    margin-left: 60px;
+    width: 100%;
+}
+
+.calculator-div {
+    width: 30%;
+    height: 200px;
+    margin-left: 250px;
+}
+
+.name-footer {
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    color: white;
+    font-size: 20px;
+    text-align:center;
+    padding-top: 30px;
+}
+
+form {
+    width: 68%;
+    height: 200px;
+    height: 410px;
+    background-color: lightgrey;
+}
+.information-about-me {
+    float: right;
+    margin-top: -410px;
+    width:  30%;
+    background-color: #fff5ee;
+    height: 410px;
+    text-align: center;
+   
+}
+
+input {
+    width: 20%;
+    border-radius: 5px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#one-click {
+    width: 10%;
+    height: 50px;
+    background-color:green;
+}
+
+#message {
+    width: 30%;
+    height: 80px;
+ 
+}
+#message-label {
+    margin-top: -50px;
+}
+
+.information-about-you {
+    text-align:  center;
+}
+
+#one-click {
+    background-color: green;
+}
+
+.project-list {
+    text-align: center;
+    padding-top: 20px;
+}
